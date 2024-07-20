@@ -7,7 +7,6 @@
 Postupujte podľa nasledujúcich krokov na inštaláciu rozšírenia z GitHubu do vášho prehliadača Firefox:
 
 1. **Stiahnite súbory rozšírenia**
-   - Navštívte GitHub repozitár rozšírenia.
    - Kliknite na zelené tlačidlo „Code“ a vyberte možnosť „Download ZIP“.
    - Po stiahnutí extrahujte ZIP súbor do priečinka na vašom počítači.
 
